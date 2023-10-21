@@ -2426,7 +2426,7 @@ textarea.w-select {
 
 .imagespacer {
     height: 70vh;
-    background-image: url("src/venue.jpg");
+    background-image: url("src/alexnsid.jpg");
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: repeat-y;
@@ -2966,7 +2966,7 @@ html.w-mod-js *[data-ix="displaynone"] {
     }
 
     .imagespacer.image5 {
-        background-image: url("http://uploads.webflow.com/56c79e8b5e6fb84471a77069/578714759bdd7b7161e5c298_ICE_3095-Edit.jpg");
+        background-image: url("src/alexnsid.jpg");
     }
 
     .sanjoseco {
